@@ -1,0 +1,24 @@
+{
+  "name": "test-web",
+  "version": "1.0.0",
+  "description": "Proyecto de CI4325",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantijn/interfaces-proyecto.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plantijn/interfaces-proyecto/issues"
+  },
+  "homepage": "https://github.com/plantijn/interfaces-proyecto/blob/master/README.md",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

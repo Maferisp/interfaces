@@ -1,0 +1,29 @@
+.perfil-content {
+  padding: 11rem 0 3rem 0;
+  background: #F0F0F0;
+  font-size: 1.1em;
+}
+
+.perfil-nombre {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.perfil-info-list {
+  list-style: none;
+}
+
+.perfil-info-list > li {
+  margin-bottom: 0.8em;
+}
+
+.perfil-table {
+  background: #FFF;
+}
+
+.perfil-table thead {
+  font-size: 1.2em;
+}
+.perfil-score {
+  padding:2em 0;
+}
